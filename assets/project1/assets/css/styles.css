@@ -138,7 +138,7 @@ img {
 
 /*==================== REUSABLE CSS CLASSES ====================*/
 .mainWebsite {
-  margin: 20px 0;
+  margin: 1rem;
   color: var(--title-color);
   display: flex;
   justify-content: center;
@@ -1130,6 +1130,7 @@ img {
   }
 
   .header{
+    top: 0;
     bottom: initial;
   }
 

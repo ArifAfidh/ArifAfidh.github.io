@@ -165,6 +165,14 @@ body.scale-cv{
   transform: translate(5px, 0);
 }
 
+.scale-cv .education__line{
+  height: 110%;
+}
+
+.scale-cv .experience__line{
+  height: 105%;
+}
+
 .scale-cv .education__data,
 .scale-cv .experience__data{
   gap: 1rem;
